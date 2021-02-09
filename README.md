@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![screenshot](https://camo.githubusercontent.com/fb6db1d8ff788aabaec4b522b3fd1f6616c9dc3807bc40cc49de659bab7c983d/68747470733a2f2f73322e617831782e636f6d2f323031392f31312f30382f4d5a756d73732e706e67)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
